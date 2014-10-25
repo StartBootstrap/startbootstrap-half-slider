@@ -1,2 +1,2 @@
-startbootstrap-half-slider
-==========================
+Start Bootstrap - Half Slider
+=========
