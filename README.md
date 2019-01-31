@@ -1,3 +1,5 @@
+*This template has been replaced with a snippet on Start Bootstrap. The repository for this template has been archived, and will receive no future updates. [Click here](https://startbootstrap.com/snippets/half-slider/) to view the actively developed snippet for this template on Start Bootstrap.*
+
 # [Start Bootstrap - Half Slider](https://startbootstrap.com/template-overviews/half-slider/)
 
 [Half Slider](http://startbootstrap.com/template-overviews/half-slider/) is an HTML starter template for [Bootstrap](http://getbootstrap.com/) created by [Start Bootstrap](http://startbootstrap.com/). This template features a full width, half page image slider header with captions.
